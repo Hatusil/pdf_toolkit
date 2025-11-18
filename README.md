@@ -93,12 +93,12 @@ reportlab==4.0.9
 
 ```cmd
 # Opción A: Con Git
-git clone https://github.com/Hatusil/pdf-toolkit.git
-cd pdf-toolkit
+git clone https://github.com/Hatusil/pdf_toolkit.git
+cd pdf_toolkit
 
 # Opción B: Descarga manual
 # Descarga el ZIP del proyecto y descomprime
-cd ruta\a\pdf-toolkit
+cd ruta\a\pdf_toolkit
 ```
 
 #### 3. Crear Entorno Virtual
@@ -202,8 +202,8 @@ sudo pacman -S poppler python-tk
 
 ```bash
 # Clonar repositorio
-git clone https://github.com/Hatusil/pdf-toolkit.git
-cd pdf-toolkit
+git clone https://github.com/Hatusil/pdf_toolkit.git
+cd pdf_toolkit
 
 # Crear entorno virtual
 python3.12 -m venv venv312
@@ -254,8 +254,8 @@ brew install poppler
 
 ```bash
 # Clonar
-git clone https://github.com/Hatusil/pdf-toolkit.git
-cd pdf-toolkit
+git clone https://github.com/Hatusil/pdf_toolkit.git
+cd pdf_toolkit
 
 # Crear entorno virtual
 python3.12 -m venv venv312
@@ -278,7 +278,7 @@ python pdf_toolkit_gui.py
 ## 📁 Estructura del Proyecto
 
 ```
-pdf-toolkit/
+pdf_toolkit/
 │
 ├── 📄 README.md                    # Este archivo
 ├── 📄 requirements.txt             # Dependencias Python
@@ -849,7 +849,7 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 ```
 MIT License
 
-Copyright (c) 2024 PDF Toolkit
+Copyright (c) 2025 PDF Toolkit
 
 Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia
 de este software y archivos de documentación asociados (el "Software"), para
@@ -883,17 +883,17 @@ vender copias del Software...
 Si encuentras algún problema o tienes preguntas:
 
 1. **Revisa** la sección de [Solución de Problemas](#-solución-de-problemas)
-2. **Busca** en los [Issues](https://github.com/Hatusil/pdf-toolkit/issues) existentes
+2. **Busca** en los [Issues](https://github.com/Hatusil/pdf_toolkit/issues) existentes
 3. **Crea** un nuevo Issue si no encuentras solución
 
 ---
 
 ## 📊 Estadísticas
 
-![GitHub stars](https://img.shields.io/github/stars/Hatusil/pdf-toolkit)
-![GitHub forks](https://img.shields.io/github/forks/Hatusil/pdf-toolkit)
-![GitHub issues](https://img.shields.io/github/issues/Hatusil/pdf-toolkit)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Hatusil/pdf-toolkit)
+![GitHub stars](https://img.shields.io/github/stars/Hatusil/pdf_toolkit)
+![GitHub forks](https://img.shields.io/github/forks/Hatusil/pdf_toolkit)
+![GitHub issues](https://img.shields.io/github/issues/Hatusil/pdf_toolkit)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Hatusil/pdf_toolkit)
 
 ---
 
