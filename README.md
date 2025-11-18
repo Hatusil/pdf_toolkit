@@ -254,7 +254,7 @@ brew install poppler
 
 ```bash
 # Clonar
-git clone https://github.com/tu-usuario/pdf-toolkit.git
+git clone https://github.com/Hatusil/pdf-toolkit.git
 cd pdf-toolkit
 
 # Crear entorno virtual
@@ -863,7 +863,7 @@ vender copias del Software...
 ## 👤 Autor
 
 **Hatusil**
-- GitHub: [@tu-usuario](https://github.com/Hatusil)
+- GitHub: [@Hatusil](https://github.com/Hatusil)
 - Email: hatusil@proton.me
 
 ---
