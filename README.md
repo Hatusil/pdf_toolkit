@@ -890,10 +890,10 @@ Si encuentras algún problema o tienes preguntas:
 
 ## 📊 Estadísticas
 
-[![GitHub stars](https://img.shields.io/github/stars/Hatusil/pdf_toolkit)](https://github.com/Hatusil/pdf_toolkit/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Hatusil/pdf_toolkit)](https://github.com/Hatusil/pdf_toolkit/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/Hatusil/pdf_toolkit)](https://github.com/Hatusil/pdf_toolkit/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/Hatusil/pdf_toolkit)](https://github.com/Hatusil/pdf_toolkit/pulls)
+[![GitHub stars](https://img.shields.io/github/stars/Hatusil/pdf_toolkit**?cachebust=1**)](https://github.com/Hatusil/pdf_toolkit/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Hatusil/pdf_toolkit**?cachebust=1**)](https://github.com/Hatusil/pdf_toolkit/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/Hatusil/pdf_toolkit**?cachebust=1**)](https://github.com/Hatusil/pdf_toolkit/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/Hatusil/pdf_toolkit**?cachebust=1**)](https://github.com/Hatusil/pdf_toolkit/pulls)
 
 
 ---
